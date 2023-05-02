@@ -4,11 +4,11 @@ Lista de exercícios básicos em Python para alunos iniciantes.
 
 1. Faça um programa que imprima a frase "Olá, mundo!" na tela.
 
-2. Faça um programa que leia um número inteiro e imprima o seu sucessor.
+2. Faça um programa que receba o nome do usuário e imprima uma mensagem de boas-vindas.
 
 3. Faça um programa que leia dois números inteiros e imprima a sua soma.
 
-4. Faça um programa que leia o nome de uma pessoa e imprima uma mensagem de boas-vindas.
+4. Faça um programa que receba a nota de três provas de um aluno e calcule a média entre elas.
 
 5. Faça um programa que leia a base e a altura de um triângulo e calcule a sua área.
 

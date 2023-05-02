@@ -1,4 +1,4 @@
-Disciplina de `Lógica de Programação``
+Disciplina de `Lógica de Programação`
 ===
 
 
